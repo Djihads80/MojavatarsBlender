@@ -6,7 +6,7 @@ Recreation of Mojang Studio's 3D Mojavatars for Blender
 # Usage
 You can [download](https://github.com/Djihads80/MojavatarsBlender/releases) the latest .blend file from [here!](https://github.com/Djihads80/MojavatarsBlender/releases)
 
-After downloading, open the .blend file, make sure you are atleast using a version newer than `4.4.0` as this was not made to account for older Blender versions
+After downloading, open the .blend file, make sure you are using version `4.4.0` or later, as this was not made to account for older Blender versions.
 
 <details>
   <summary>Click here for instructions</summary>
@@ -28,7 +28,7 @@ after that, replace the skin Image Texture with your own Minecraft Skin
 ![image](https://github.com/user-attachments/assets/efae8188-149d-4b94-ba96-7893690a19f6)
 
 
-To add reflections to the hair (and to also fix the moustache), find the Factor Image Texture (you can use Middle Mouse Button to navigate through the shader's node setup)
+To add reflections to the hair (and to also fix the mustache), find the Factor Image Texture (you can use Middle Mouse Button to navigate through the shader's node setup)
 
 ![image](https://github.com/user-attachments/assets/d7c4282f-4781-4710-b680-37f0d72b71d9)
 
@@ -48,12 +48,12 @@ Left Click on any of these floating objects
 
 ![image](https://github.com/user-attachments/assets/53ecf938-8193-4f01-9db5-b64938973d03)
 
-In their shader node setup, you can change their color to the skin's hair/hat/head texture color or anything relative to that as this controls the color of the reflected objects which are not visable in the final render
+In their shader node setup, you can change their color to the skin's hair/hat/head texture color or anything relative to that, as this controls the color of the reflected objects which are not visable in the final render
 `you can use Ctrl+F to find where the nodes are if you can't see them!`
 
 ![image](https://github.com/user-attachments/assets/edc7c713-6289-4665-bde3-7e835fd710c6)
 
-## After all of that, you are done 🎉🎉🎉
+## After all that, you are done 🎉🎉🎉
 you can press F12 to start rendering your Mojavatar!
 
 after the render finishes, make sure to save it
@@ -64,7 +64,7 @@ after the render finishes, make sure to save it
 
 # Issues
 
-If you encounter any problem, please open an Issue, and describe the problem with great details (and please provide any addition information such as computer specs, operating system, blender version etc...)
+If you encounter any problems, please open an Issue, and describe the problem with great details (and please provide any addition information such as computer specs, operating system, blender version etc...)
 
 If you know how to solve such problems (assuming its a *my* problem like inncorrect UVs) then open a pull request 😊
 
